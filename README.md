@@ -1,68 +1,78 @@
-<h1 align="left">Hey there! 👋 What's up?</h1>
+# 👋 Hi, I'm Nkateko Nkuna (NkatekoDev24)
 
-###
+### 🌐 Welcome to My GitHub Profile!
+I'm a Computer Science Honours Graduate from the University of the Free State. Passionate about building impactful applications, exploring new technologies, and sharing knowledge with the community.
 
-<p align="left">I'm Nkateko Nkuna, a Computer Science Honours Graduate from the University of the Free State. I'm passionate about building impactful applications and learning new tech along the way. Welcome to my GitHub profile!</p>
+---
 
-###
+### 💼 About Me
+- 🖥️ **Coding since 2017**, and I enjoy every challenge along the way!
+- 🌱 Currently diving deep into **mobile development**, **financial tech**, and **machine learning**.
+- 🎯 **2024 Goals**: Contribute more to open-source projects and expand my portfolio with new, exciting applications.
+- 🌟 **Fun Fact**: I love finding efficient solutions for both code and personal finance!
 
-<h2 align="left">🚀 About Me</h2>
+---
 
-###
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-<p align="left">
-✨ Coding since 2017 and loving every bug and breakthrough!<br>
-📚 Currently expanding my knowledge in mobile development, financial tech, and machine learning.<br>
-🎯 Goals for 2023: To create meaningful software solutions and deepen my contributions to the tech community.<br>
-🎲 Fun fact: I’m as invested in creating elegant code as I am in optimizing my financial habits!
-</p>
+---
 
-###
+### 📈 GitHub Stats
+![NkatekoDev24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkatekodev24&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkatekodev24&layout=compact&theme=radical)
 
-<h2 align="left">💻 Tech I Code With</h2>
+---
 
-###
+### 🏆 Projects I'm Proud Of
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-</div>
+#### 1. **[Interview Questions Management App](https://github.com/NkatekoDev24/Interview-Questions-Management)**
+- 📋 A streamlined app for managing interview questions with search and categorization features.
+- 🛠️ **Tech**: JavaScript, React, Node.js, MongoDB
+- 🌐 **Demo**: [Live Demo Link](https://your-demo-link.com)
 
-###
+#### 2. **[Good Money Habits](https://github.com/NkatekoDev24/Good-Money-Habits)**
+- 💰 A financial literacy app helping users build better financial habits.
+- 🛠️ **Tech**: Python, Flask, SQLite
+- 🌐 **Demo**: [Live Demo Link](https://your-demo-link.com)
 
-<h2 align="left">📈 GitHub Stats</h2>
+#### 3. **[Conference Management System](https://github.com/NkatekoDev24/Conference_Management)**
+- 🛠️ A tool for managing conference schedules and attendee information.
+- 🛠️ **Tech**: Java, Spring Boot, MySQL
 
-###
+#### 4. **[Machine Learning Project 1](https://github.com/NkatekoDev24/Machine_Learning_Project1)**
+- 🤖 A project exploring predictive analytics with machine learning models.
+- 🛠️ **Tech**: Python, Pandas, Scikit-learn
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NkatekoDev24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NkatekoDev24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+---
 
-###
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourlinkedin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
 
-<h2 align="left">🌟 Projects I’m Proud Of</h2>
 
-### 📝 Interview Preparation
-- **[Interview Questions Management App](https://github.com/NkatekoDev24/Interview-Questions-Management)** - A streamlined application designed to manage and organize interview questions. Users can add, categorize, and search questions to prepare efficiently.
+---
 
-### 💰 Financial Literacy
-- **[Good Money Habits](https://github.com/NkatekoDev24/Good-Money-Habits)** - An app aimed at helping users develop and maintain healthy financial habits. It includes features for budgeting, goal setting, and tracking spending patterns.
+### 📅 Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nkatekodev24&theme=dracula)
 
-### 🛠 Other Projects
-- **[Conference Management](https://github.com/NkatekoDev24/Conference_Management)** - A system for organizing and managing conference schedules and attendee information.
-- **[DatingApp2023](https://github.com/NkatekoDev24/DatingApp2023-main-master)** - A C# backend application for a simple dating platform.
+---
 
-###
+### 📫 Let's Collaborate
+I'm open to collaborating on interesting projects in:
+- 💻 Web Development
+- 📱 Mobile Development
+- 🤖 Machine Learning
 
-<h2 align="left">🌐 Let's Connect!</h2>
+Feel free to reach out via [email](mailto:nkunans98@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/nkateko-nkuna).
 
-<div align="left">
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
-</div>
+---
+
+🔗 **Visit My Repositories**: [All Repositories](https://github.com/NkatekoDev24?tab=repositories)
+
