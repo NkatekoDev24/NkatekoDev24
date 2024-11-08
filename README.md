@@ -66,11 +66,3 @@
   <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NkatekoDev24/NkatekoDev24/output/snake.svg" alt="Snake animation" />
-
-###
