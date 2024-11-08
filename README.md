@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nkateko Nkuna, a Computer Science Honours Graduate from the University of the Free State, passionate about building innovative software and exploring the world of technology. Welcome to my GitHub profile!</p>
+<p align="left">I'm Nkateko Nkuna, a Computer Science Honours Graduate from the University of the Free State. I'm passionate about building impactful applications and learning new tech along the way. Welcome to my GitHub profile!</p>
 
 ###
 
@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-✨ Coding since 20XX and still captivated by the journey!<br>
-📚 Currently learning more about backend development and scalable systems.<br>
-🎯 Goals: Build real-world projects, contribute to open-source, and continuously expand my tech stack.<br>
-🎲 Fun fact: Debugging is my puzzle-solving therapy!
+✨ Coding since 2017 and loving every bug and breakthrough!<br>
+📚 Currently expanding my knowledge in mobile development, financial tech, and machine learning.<br>
+🎯 Goals for 2023: To create meaningful software solutions and deepen my contributions to the tech community.<br>
+🎲 Fun fact: I’m as invested in creating elegant code as I am in optimizing my financial habits!
 </p>
 
 ###
@@ -48,26 +48,21 @@
 
 <h2 align="left">🌟 Projects I’m Proud Of</h2>
 
-### 🌐 Web Development
-- **[Conference Management](https://github.com/NkatekoDev24/Conference_Management)** - A conference management system for event organization and scheduling.
-- **[DatingApp2023](https://github.com/NkatekoDev24/DatingApp2023-main-master)** - A simple dating application backend built using C#.
+### 📝 Interview Preparation
+- **[Interview Questions Management App](https://github.com/NkatekoDev24/Interview-Questions-Management)** - A streamlined application designed to manage and organize interview questions. Users can add, categorize, and search questions to prepare efficiently.
 
-### 🖥️ Mobile Development
-- **[Conference Management Mobile](https://github.com/NkatekoDev24/Conference_Managemnet-Mobile)** - Mobile version of my conference management project, aimed at providing a streamlined user experience for on-the-go access.
+### 💰 Financial Literacy
+- **[Good Money Habits](https://github.com/NkatekoDev24/Good-Money-Habits)** - An app aimed at helping users develop and maintain healthy financial habits. It includes features for budgeting, goal setting, and tracking spending patterns.
 
-### 📊 Machine Learning
-- **[Machine Learning Project 1](https://github.com/NkatekoDev24/Machine_Learning_Project1)** - An introductory project exploring machine learning techniques and data analysis with Java.
-
-### 📝 Other Projects
-- **[2023 Glossary](https://github.com/NkatekoDev24/2023_Glossary_NkunaNS)** - A glossary app built in C# to store and organize terms and definitions.
-- **[Places](https://github.com/NkatekoDev24/places)** - A project focused on geographical data, developed in Python.
+### 🛠 Other Projects
+- **[Conference Management](https://github.com/NkatekoDev24/Conference_Management)** - A system for organizing and managing conference schedules and attendee information.
+- **[DatingApp2023](https://github.com/NkatekoDev24/DatingApp2023-main-master)** - A C# backend application for a simple dating platform.
 
 ###
 
 <h2 align="left">🌐 Let's Connect!</h2>
 
 <div align="left">
-  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" /></a>
   <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
 </div>
