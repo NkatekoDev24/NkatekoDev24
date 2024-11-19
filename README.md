@@ -34,12 +34,10 @@ I'm a Computer Science Honours Graduate from the University of the Free State. P
 #### 1. **[Interview Questions Management App](https://github.com/NkatekoDev24/Interview-Questions-Management)**
 - 📋 A streamlined app for managing interview questions with search and categorization features.
 - 🛠️ **Tech**: JavaScript, React, Node.js, MongoDB
-- 🌐 **Demo**: [Live Demo Link](https://your-demo-link.com)
 
 #### 2. **[Good Money Habits](https://github.com/NkatekoDev24/Good-Money-Habits)**
 - 💰 A financial literacy app helping users build better financial habits.
 - 🛠️ **Tech**: Python, Flask, SQLite
-- 🌐 **Demo**: [Live Demo Link](https://your-demo-link.com)
 
 #### 3. **[Conference Management System](https://github.com/NkatekoDev24/Conference_Management)**
 - 🛠️ A tool for managing conference schedules and attendee information.
@@ -55,7 +53,6 @@ I'm a Computer Science Honours Graduate from the University of the Free State. P
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourlinkedin)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yourhandle)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
-
 
 ---
 
@@ -75,4 +72,3 @@ Feel free to reach out via [email](mailto:nkunans98@gmail.com) or connect on [Li
 ---
 
 🔗 **Visit My Repositories**: [All Repositories](https://github.com/NkatekoDev24?tab=repositories)
-
