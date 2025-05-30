@@ -8,7 +8,7 @@ I'm a Computer Science Honours Graduate from the University of the Free State. P
 ### 💼 About Me
 - 🖥️ **Coding since 2017**, and I enjoy every challenge along the way!
 - 🌱 Currently diving deep into **mobile development**, **financial tech**, and **machine learning**.
-- 🎯 **2024 Goals**: Contribute more to open-source projects and expand my portfolio with new, exciting applications.
+- 🎯 **2025 Goals**: Contribute more to open-source projects and expand my portfolio with new, exciting applications.
 - 🌟 **Fun Fact**: I love finding efficient solutions for both code and personal finance!
 
 ---
