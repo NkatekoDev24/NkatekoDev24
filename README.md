@@ -35,7 +35,7 @@ I'm a Computer Science Honours Graduate from the University of the Free State. P
 - 📋 A streamlined app for managing interview questions with search and categorization features.
 - 🛠️ **Tech**: JavaScript, React, Node.js, MongoDB
 
-#### 2. **[Good Money Habits](https://github.com/NkatekoDev24/Good-Money-Habits)**
+#### 2. **[Good Money Habits](https://github.com/NkatekoDev24/GMH)**
 - 💰 A financial literacy app helping users build better financial habits.
 - 🛠️ **Tech**: Python, Flask, SQLite
 
