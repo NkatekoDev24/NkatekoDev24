@@ -31,7 +31,7 @@ I'm a Computer Science Honours Graduate from the University of the Free State. P
 
 ### 🏆 Projects I'm Proud Of
 
-#### 1. **[Interview Questions Management App](https://github.com/NkatekoDev24/Interview-Questions-Management)**
+#### 1. **[Interview Questions Management App](https://github.com/NkatekoDev24/Job-Interview-Questions-Management-App)**
 - 📋 A streamlined app for managing interview questions with search and categorization features.
 - 🛠️ **Tech**: JavaScript, React, Node.js, MongoDB
 
